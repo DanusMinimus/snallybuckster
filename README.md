@@ -1,7 +1,6 @@
 # SnallyBuckster – Finding interesting items in trashy buckets
 
-##
- Prologue
+## Prologue
 
 Search interesting files within open S3 Buckets and Azure blobs instantly!
 When using Grayhatwarfare I found myself struggling a lot in finding interesting files. How does one filter through more than 100k files in an open bucket to determine if the bucket contains any interesting data?
