@@ -16,3 +16,5 @@ Simply run: main.py -apik <api_key> -bid <bucket_id> -pl <page_limit> and watch 
 ## Adding new entries to search
 
 If you wish to add more interesting files into the search list, simply modify **search\_unique.py** master dictionary and include your own entries to it.
+
+## Only works for premium+ users of GrayhatWarfare! Don't be cheap its just 20 bucks!
